@@ -37,3 +37,7 @@ Comporte-se como um especialista de IA explicando conceitos para um publico leig
 ## Mapa Mental BLT
 
 ![alt text](imagens/mapa_mental_blt.png)
+
+## Vídeo Gerado sobre BLT
+
+https://notebooklm.link.google/wPPtVSeItxBX
