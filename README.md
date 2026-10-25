@@ -3,6 +3,9 @@
 ## Tema e objetivo
 Criar um segundo cérebro para analisar os últimos papers sobre IA e seus impactos.
 
+## Link do notebook compartilhado
+https://notebook.google.com/notebook/dea91149-4480-455c-9423-4a3705b62419
+
 ## Fontes
 ### FONTES DE VÍDEO:
 - https://www.youtube.com/watch?v=xc2FTBGRSJo
@@ -30,6 +33,7 @@ Comporte-se como um especialista de IA explicando conceitos para um publico leig
 ![alt text](<imagens/Captura de tela 2026-10-25 081027.png>)
 ![alt text](<imagens/Captura de tela 2026-10-25 081048.png>)
 
-## Link do notebook compartilhado
 
-https://notebook.google.com/notebook/dea91149-4480-455c-9423-4a3705b62419
+## Mapa Mental BLT
+
+![alt text](imagens/mapa_mental_blt.png)
